@@ -70,8 +70,8 @@ DESCRIBE Orders;
 
 ### 📘 Explanation
 
-* Combination of `Order_ID` and `Customer_ID` must be unique
-* Useful when one column alone is not sufficient
+* Combination of `Order_ID` and `Customer_ID` must be unique. 
+* Useful when one column alone is not sufficient. 
 
 ### 🎯 Use Case
 
