@@ -255,6 +255,4 @@ You can enhance this repo by adding:
 
 ## 📄 License
 
-This project is open-source and free for learning and practice.
-
-```
+This project is open-source and free for learning and practice. 
